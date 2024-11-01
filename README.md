@@ -1,4 +1,4 @@
-# Timewarrior Reports
+# Timewarrior Report Markdown
 
 A Rust application to parse and format time entries from Timewarrior tool output into a Markdown report.
 
