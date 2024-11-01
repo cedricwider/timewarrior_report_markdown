@@ -42,8 +42,6 @@ Run the tests with:
 
 ```bash
 cargo test
-bash
-
 ```
 
 Make sure to modify and expand on the details as per your complete understanding of the project.
